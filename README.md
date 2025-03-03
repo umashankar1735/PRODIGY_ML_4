@@ -62,11 +62,7 @@ python real_time_gesture.py
 ```
 
 ## Contributors
-- **[Your Name]** – AI/ML Developer 🤖
+- **UMA SHANKAR** – AI/ML Developer 🤖
 
 ## License
 📜 This project is licensed under the **MIT License**.
-
----
-
-💡 **Let’s Make AI More Interactive!** If you find this useful, feel free to ⭐ the repo and contribute! 🚀
